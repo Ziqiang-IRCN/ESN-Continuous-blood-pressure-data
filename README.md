@@ -1,5 +1,5 @@
 # ESN-Continuous-blood-pressure-data
-The source codes for the paper "An ESN-based Method for Identity Recognition with CBP Data"
+The source codes for the paper "An ESN-based Method for Identity Recognition with Continous Blood Pressure Data"
 
 ## Preparation
 1. Create an empty file named "data" in the file "CBP-demonstration"  

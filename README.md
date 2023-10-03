@@ -8,3 +8,12 @@ The source codes for the paper "An ESN-based Method for Identity Recognition wit
 ## Run
 Run the Python file "Run_BiESN.py" to calculate the recognition results of the proposed model in the paper.  
 Run the Python file "Run_ESN.py" to calculate the recognition results of the standard ESN.  
+
+## Citation
+>@inproceedings{li2023echo,  
+>title={An Echo State Network-Based Method for Identity Recognition with Continuous Blood Pressure Data},  
+>author={Li, Ziqiang and Fujiwara, Kantaro and Tanaka, Gouhei},  
+>booktitle={International Conference on Artificial Neural Networks},  
+>pages={13--25},  
+>year={2023},  
+>organization={Springer}}  
